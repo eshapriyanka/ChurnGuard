@@ -1,7 +1,7 @@
 # ChurnGuard
 
 ChurnGuard is a machine learning project designed to predict customer churn based on various features such as demographics, transaction history, and account activity. The goal is to help businesses retain valuable customers by identifying potential churners early and taking proactive measures.
-
+Multiple classification algorithms—including Random Forest, Logistic Regression, SVM, KNN, and Gradient Boosting—are applied and compared to identify the best-performing model.
 The dataset used is, https://www.kaggle.com/datasets/shrutimechlearn/churn-modelling/data
 
 The dataset used in this project is Churn_Modelling.csv, which contains customer information, including:
