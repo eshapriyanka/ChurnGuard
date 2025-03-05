@@ -17,8 +17,8 @@ EstimatedSalary: Customer's estimated salary
 Exited: Target variable (1 = Churned, 0 = Retained)
 
 ## Technologies Used ##
-Python
-Pandas, NumPy (Data Handling)
-Matplotlib, Seaborn (Data Visualization)
-Scikit-learn (ML Models)
+Python,
+Pandas, NumPy (Data Handling),
+Matplotlib, Seaborn (Data Visualization),
+Scikit-learn (ML Models),
 Google Colab (Execution Environment)
